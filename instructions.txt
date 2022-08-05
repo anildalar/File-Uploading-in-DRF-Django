@@ -1,0 +1,6 @@
+How to upload a file using drf / django
+
+https://joel-hanson.medium.com/drf-how-to-make-a-simple-file-upload-api-using-viewsets-1b1e65ed65ca
+
+
+https://github.com/Joel-hanson/simple-file-upload
